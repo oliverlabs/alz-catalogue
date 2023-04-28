@@ -45,3 +45,16 @@ These landing zones have been developed in the broader context of common scenari
 - Enterprise-scale Landing Zone for AVS
   - [Microsoft Learn article](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-vmware-solution-foundation-landing-zone) - Landing zone considerations for Azure VMWare Solution
   - [GitHub repo](https://github.com/Azure/Enterprise-Scale-for-AVS)
+
+# Custom Purpose Azure Landing Zones
+This list contains a list of specialised ALZs based on a certain need:
+- Mission Landing Zone
+  - [GitHub repo](https://github.com/Azure/missionlz)
+- Mission Edge Landing Zone
+  - [GitHub repo](https://github.com/Azure/missionlz-edge)
+- Mission Critical Azure Landing Zone
+  - [Microsoft Learn Mission Critical Overview article](https://learn.microsoft.com/en-us/azure/well-architected/mission-critical/mission-critical-overview)
+  - [Microsoft Learn article](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-landing-zone)
+  - [GitHub repo](https://github.com/Azure/Mission-Critical-Connected)
+- CAF Migrate Landing Zone
+  - [Microsoft Learn article](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-landing-zone)
