@@ -11,7 +11,7 @@ ALZ (Azure Landing Zone) is the core platform implementation of Cloud Adoption F
 
 A full list of implementation options for enterprise-scale landing zone can be found on Microsoft Learn website [here](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/implementation).
 
-# 📌 Application Platforms Landing Zones
+# 📌 Application Landing Zones
 - AKS
   - [Microsoft Learn article](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/aks/landing-zone-accelerator)
   - [AKS Baseline](https://github.com/mspnp/aks-baseline) - start small and expand with the AKS baseline architecture
