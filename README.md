@@ -55,6 +55,7 @@ These landing zones have been developed in the broader context of common scenari
 This list contains a list of specialised ALZs based on a certain need:
 - Mission Landing Zone
   - [GitHub repo](https://github.com/Azure/missionlz)
+  - [Azure Academy YouTube Video](https://www.youtube.com/watch?v=9BKgz9Rl1eo&ab_channel=AzureAcademy)
 - Mission Edge Landing Zone
   - [GitHub repo](https://github.com/Azure/missionlz-edge)
 - Mission Critical Azure Landing Zone
