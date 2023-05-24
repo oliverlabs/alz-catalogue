@@ -43,6 +43,9 @@ A full list of implementation options for enterprise-scale landing zone can be f
 - Enterprise-scale Landing Zone for AVS
   - [Microsoft Learn article](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-vmware-solution-foundation-landing-zone) - Landing zone considerations for Azure VMWare Solution
   - [GitHub repo](https://github.com/Azure/Enterprise-Scale-for-AVS)
+- Enterprise-scale support for Citrix on Azure
+  -  [Microsoft Learn article](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/landing-zone-citrix/citrix-enterprise-scale-landing-zone)
+  -  [Citrix DaaS on Microsoft Azure](https://docs.citrix.com/en-us/citrix-daas-azure.html) - Design guidance for Citrix DaaS on Microsoft Azure
 
 # 📈 Scenario-specific Landing Zones
 These landing zones have been developed in the broader context of common scenarios, such as:
