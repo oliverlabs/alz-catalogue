@@ -1,10 +1,13 @@
 # Azure Landing Zone Catalogue
-This repository contains an unofficial list of various Platform and Application implementations of Azure Landing Zone along with relevant links. Feel free to open an issue to propose new ones. 
+This repository contains an unofficial list of various Platform and Application implementations of Azure Landing Zone along with relevant links. Feel free to submit a PR to propose changes or add new ones. 
 
 📃 The offical list of Platfrom and Application landing zones can be found on Microsoft Learn [here](https://learn.microsoft.com/en-gb/azure/architecture/landing-zones/landing-zone-deploy). 
 
 # ⚙️ Platform (Enterprise-scale) Landing Zone
-ALZ (Azure Landing Zone) is the core platform implementation of Cloud Adoption Framework Azure Landing Zones conceptual architecture. An Azure landing zone provides cloud adoption teams with a well-managed environment to run their workloads. Take advantage of the best practices described in landing zone design areas to build a strong foundation. You can then extend the foundation by implementing processes related to security, governance, and compliance. It can be deployed using different methods. Some of the most popular ones are:
+<img src="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/media/ns-arch-cust-expanded.svg" width="800" /><img><br>
+*Figure 1: Azure landing zone conceptual architecture. Download a [Visio file](https://raw.githubusercontent.com/microsoft/CloudAdoptionFramework/master/ready/enterprise-scale-architecture.vsdx) of this architecture.*
+
+ALZ (**Azure Landing Zone**) is the core platform implementation of Cloud Adoption Framework Azure Landing Zones conceptual architecture. An Azure landing zone provides cloud adoption teams with a well-managed environment to run their workloads. Take advantage of the best practices described in landing zone design areas to build a strong foundation. You can then extend the foundation by implementing processes related to security, governance, and compliance. It can be deployed using different methods. Some of the most popular ones are:
 - [ALZ Bicep](https://github.com/Azure/ALZ-Bicep)
 - [ALZ Terraform](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale)
 - [ALZ Portal Accelerator](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/#azure-landing-zone-accelerator)
