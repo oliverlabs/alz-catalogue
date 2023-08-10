@@ -64,7 +64,8 @@ This list contains a list of specialised ALZs based on a certain need:
 - Mission Critical Azure Landing Zone
   - [Microsoft Learn Mission Critical Overview article](https://learn.microsoft.com/en-us/azure/well-architected/mission-critical/mission-critical-overview)
   - [Microsoft Learn article](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-landing-zone)
-  - [GitHub repo](https://github.com/Azure/Mission-Critical-Connected)
+  - [Mission Critical Enterprise Connected GitHub repo](https://github.com/Azure/Mission-Critical-Connected)
+  - [Mission Critical Online GitHub repo](https://github.com/Azure/Mission-Critical)
 - Operator Landing Zones
   - [GitHub repo](https://github.com/microsoft/industry/blob/main/telco/docs/operator-landing-zones.md#azure-mission-critical)
 - CAF Migrate Landing Zone
