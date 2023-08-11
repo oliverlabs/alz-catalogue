@@ -18,6 +18,7 @@ A full list of implementation options for enterprise-scale landing zone can be f
 - Azure OpenAI
   - [Azure OpenAI Landing Zone reference architecture](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102?WT.mc_id=DT-MVP-5001664)
   - [AI Architecture Visio Diagram](https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/AzureArchitectureBlog/393/5/AzureLandingZoneOpenAIVisio1.1.zip)
+  - [Building and Deploying Azure AI Landing Zones with Terraform](https://techcommunity.microsoft.com/t5/azure-architecture-blog/empowering-ai-building-and-deploying-azure-ai-landing-zones-with/ba-p/3891249)
 - AKS
   - [Microsoft Learn article](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/aks/landing-zone-accelerator)
   - [AKS Baseline](https://github.com/mspnp/aks-baseline) - start small and expand with the AKS baseline architecture
