@@ -68,6 +68,9 @@ This list contains a list of specialised ALZs based on a certain need:
   - [Azure Academy YouTube Video](https://www.youtube.com/watch?v=9BKgz9Rl1eo&ab_channel=AzureAcademy)
 - Mission Edge Landing Zone
   - [GitHub repo](https://github.com/Azure/missionlz-edge)
+- Sovereign Landing Zone (SLZ)
+  - [GitHub repo](https://github.com/Azure/sovereign-landing-zone)
+  - [Microsoft Learn documentation](https://learn.microsoft.com/en-gb/industry/sovereignty/slz-overview)
 - Mission Critical Azure Landing Zone
   - [Microsoft Learn Mission Critical Overview article](https://learn.microsoft.com/en-us/azure/well-architected/mission-critical/mission-critical-overview)
   - [Microsoft Learn article](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-landing-zone)
