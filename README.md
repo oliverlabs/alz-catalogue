@@ -54,6 +54,9 @@ A full list of implementation options for enterprise-scale landing zone can be f
   -  [Microsoft Learn article](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/landing-zone-citrix/citrix-enterprise-scale-landing-zone)
   -  [Citrix DaaS on Microsoft Azure](https://docs.citrix.com/en-us/citrix-daas-azure.html) - Design guidance for Citrix DaaS on Microsoft Azure
 
+# 🪄 Generative AI Scenarios
+- [Azure API Management with Generative AI resources as backend](https://github.com/Azure/apim-landing-zone-accelerator/blob/main/scenarios/workload-genai/README.md) - This accelerator is built on top of existing Azure API Management one. It provides guidelines on how to provision and interact with Generative AI resources through API Management.
+
 # 📈 Scenario-specific Landing Zones
 These landing zones have been developed in the broader context of common scenarios, such as:
 - [Enterprise-scale for hybrid with Azure Arc](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/enterprise-scale-landing-zone)
