@@ -23,6 +23,9 @@ A full list of implementation options for enterprise-scale landing zone can be f
   - [Microsoft Learn article](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/aks/landing-zone-accelerator)
   - [AKS Baseline](https://github.com/mspnp/aks-baseline) - start small and expand with the AKS baseline architecture
   - [AKS landing Zone accelerator](https://github.com/Azure/AKS-Landing-Zone-Accelerator) - includes a reference implementation to deploy an instance of the AKS baseline into an enterprise-scale landing zone to support your AKS platform within the specific environmental configuration required by the broader enterprise-scale landing zone solutions.
+- Azure Virtual Desktop (AVD) Landing Zone Accelerator
+  - [Azure Virtual Desktop Azure Landing Zone Baseline Review](https://learn.microsoft.com/en-gb/azure/cloud-adoption-framework/scenarios/azure-virtual-desktop/ready)
+  - [GitHub repo](https://github.com/Azure/avdaccelerator)
 - Azure Integration Services landing zone accelerator
   - [Microsoft Learn article](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/integration-services/landing-zone-accelerator)
   - [GitHub repo](https://github.com/Azure/Integration-Services-Landing-Zone-Accelerator)
