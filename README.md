@@ -1,6 +1,9 @@
 # Azure Landing Zone Catalogue
 This repository contains an unofficial list of various Platform and Application implementations of Azure Landing Zone along with relevant links. Feel free to submit a PR to propose changes or add new ones. 
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Markdown Link Checker](https://github.com/oliverlabs/azure-networking/actions/workflows/markdown-link-checker.yml/badge.svg)](https://github.com/oliverlabs/azure-networking/actions/workflows/markdown-link-checker.yml)
+
 📃 The offical list of Platfrom and Application landing zones can be found on Microsoft Learn [here](https://learn.microsoft.com/en-gb/azure/architecture/landing-zones/landing-zone-deploy). 
 
 # ⚙️ Platform (Enterprise-scale) Landing Zone
