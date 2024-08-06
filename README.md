@@ -31,7 +31,7 @@ A full list of implementation options for enterprise-scale landing zone can be f
 - Azure Virtual Desktop (AVD) Landing Zone Accelerator
   - [Azure Virtual Desktop Azure Landing Zone Baseline Review](https://learn.microsoft.com/en-gb/azure/cloud-adoption-framework/scenarios/azure-virtual-desktop/ready)
   - [GitHub repo](https://github.com/Azure/avdaccelerator)
-- Azure Integration Services landing zone accelerator
+- Azure Integration Services (AIS) landing zone accelerator
   - [Microsoft Learn article](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/integration-services/landing-zone-accelerator)
   - [GitHub repo](https://github.com/Azure/Integration-Services-Landing-Zone-Accelerator)
   - [Azure Integration Services Landing Zone accelerator with Azure Developer CLI](https://github.com/pascalvanderheiden/azd-ais-lza)
