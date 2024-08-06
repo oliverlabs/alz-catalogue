@@ -1,6 +1,8 @@
 # Azure Landing Zone Catalogue
 This repository contains an unofficial list of various Platform and Application implementations of Azure Landing Zone along with relevant links. Feel free to submit a PR to propose changes or add new ones. 
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Markdown Link Checker](https://github.com/oliverlabs/azure-networking/actions/workflows/markdown-link-checker.yml/badge.svg)](https://github.com/oliverlabs/azure-networking/actions/workflows/markdown-link-checker.yml)
 
@@ -32,6 +34,7 @@ A full list of implementation options for enterprise-scale landing zone can be f
 - Azure Integration Services landing zone accelerator
   - [Microsoft Learn article](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/integration-services/landing-zone-accelerator)
   - [GitHub repo](https://github.com/Azure/Integration-Services-Landing-Zone-Accelerator)
+  - [Azure Integration Services Landing Zone accelerator with Azure Developer CLI](https://github.com/pascalvanderheiden/azd-ais-lza)
 - API Management Landing Zone Accelerator
   - [Microsoft Learn article](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/api-management/landing-zone-accelerator)
   - [GitHub repo](https://github.com/Azure/apim-landing-zone-accelerator)
