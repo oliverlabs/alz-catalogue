@@ -25,6 +25,7 @@ A full list of implementation options for enterprise-scale landing zone can be f
   - [Azure OpenAI Landing Zone reference architecture](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102?WT.mc_id=DT-MVP-5001664)
   - [AI Architecture Visio Diagram](https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/AzureArchitectureBlog/393/5/AzureLandingZoneOpenAIVisio1.1.zip)
   - [Building and Deploying Azure AI Landing Zones with Terraform](https://techcommunity.microsoft.com/t5/azure-architecture-blog/empowering-ai-building-and-deploying-azure-ai-landing-zones-with/ba-p/3891249)
+  - See [Generative AI Scenarios](#-generative-ai-scenarios) on this list below for more resources
 - AKS
   - [Microsoft Learn article](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/aks/landing-zone-accelerator)
   - [AKS Baseline](https://github.com/mspnp/aks-baseline) - start small and expand with the AKS baseline architecture
@@ -66,6 +67,7 @@ A full list of implementation options for enterprise-scale landing zone can be f
 
 # 🪄 Generative AI Scenarios
 - [Azure API Management with Generative AI resources as backend](https://github.com/Azure/apim-landing-zone-accelerator/blob/main/scenarios/workload-genai/README.md) - This accelerator is built on top of existing Azure API Management one. It provides guidelines on how to provision and interact with Generative AI resources through API Management.
+- (new!) [AI Hub Gateway Landing Zone accelerator](https://github.com/Azure-Samples/ai-hub-gateway-solution-accelerator) - Reference architecture that provides a set of guidelines and best practices for implementing a central AI API gateway to empower various line-of-business units in an organization to leverage Azure AI services
 
 # 📈 Scenario-specific Landing Zones
 These landing zones have been developed in the broader context of common scenarios, such as:
