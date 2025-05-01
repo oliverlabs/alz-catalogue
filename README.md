@@ -20,6 +20,8 @@ ALZ (**Azure Landing Zone**) is the core platform implementation of Cloud Adopti
 A full list of implementation options for enterprise-scale landing zone can be found on Microsoft Learn website [here](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/implementation).
 
 # 📌 Application Landing Zones
+- Dev Center Landing Zone
+  - NEW! [GitHub repo](https://github.com/azure/devboxaccelerator)
 - Azure OpenAI
   - NEW! [Azure OpenAI chat baseline architecture in an Azure landing zone](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/azure-openai-baseline-landing-zone)
   - NEW! [GitHub repo: A variation of the Azure OpenAI chat baseline, altered to be deployed specifically into an application landing zone.](https://github.com/Azure-Samples/azure-openai-chat-baseline-landing-zone/)
